@@ -1,0 +1,1212 @@
+%PDF-1.4
+%ĞÕÑ™
+1 0 obj
+<<
+/Author ()
+/CreationDate (D:20250331000000)
+/Creator (Altium Designer)
+/Keywords (Altium)
+/ModDate (D:20250331085741+02'00')
+/Producer (llPDFLib 3.x)
+/Subject ()
+/Title (display_driver_board)
+>>
+endobj
+2 0 obj
+<<
+/Metadata 3 0 R
+/Names 4 0 R
+/Outlines 5 0 R
+/PageLayout /SinglePage
+/PageMode /UseOutlines
+/Pages 6 0 R
+/Type /Catalog
+>>
+endobj
+3 0 obj
+<<
+/Length 3254
+/Subtype /XML
+/Type /Metadata
+>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+		<rdf:Description rdf:about=""
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+				xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+				xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+			<dc:creator>
+				<rdf:Seq/>
+			</dc:creator>
+			<dc:subject>Altium</dc:subject>
+			<dc:description>
+				<rdf:Alt>
+					<rdf:li xml:lang="x-default"/>
+				</rdf:Alt>
+			</dc:description>
+			<dc:title>
+				<rdf:Alt>
+					<rdf:li xml:lang="x-default">display_driver_board</rdf:li>
+				</rdf:Alt>
+			</dc:title>
+			<dc:format>application/pdf</dc:format>
+			<xmp:CreateDate>2025-03-31T00:00+02:00</xmp:CreateDate>
+			<xmp:CreatorTool>Altium Designer</xmp:CreatorTool>
+			<xmp:ModifyDate>2025-03-31T08:57:41+02:00</xmp:ModifyDate>
+			<pdf:Producer>llPDFLib 3.x</pdf:Producer>
+			<xmpMM:DocumentID>uuid:164f2ea8-3d1b-4e0f-8162-74eec46d70b4</xmpMM:DocumentID>
+			<xmpMM:InstanceID>uuid:c9bf518f-d792-47f8-a274-7fee8b9f6ee8</xmpMM:InstanceID>
+		</rdf:Description>
+	</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstream
+endobj
+4 0 obj
+<<
+/JavaScript 7 0 R
+>>
+endobj
+5 0 obj
+<<
+/Count 25
+/First 8 0 R
+/Last 8 0 R
+/Type /Outlines
+>>
+endobj
+6 0 obj
+<<
+/Count 1
+/Kids [9 0 R]
+/Type /Pages
+>>
+endobj
+7 0 obj
+<<
+/Names [(_FindWord) 10 0 R (_HighlightRect) 11 0 R (ShowCompProps_7065B067DA2B46C7A3B2AAD63B2009A2) 12 0 R (ShowCompProps_1DBCCEDE305444C68417BF7D2A2F3A11) 13 0 R (ShowCompProps_9B840CD2A01B443F9F86528E66ABD250) 14 0 R (ShowCompProps_B90CAC9D268643669EA9E15037A6B13E) 15 0 R (ShowCompProps_CDFA46D6F289433B8CB7969AE2A9868C) 16 0 R (ShowCompProps_1664BDF2E81B4D95B359D4C6DCD7752F) 17 0 R
+(ShowCompProps_C65501EFF1D94228BFB04E290E961F69) 18 0 R (ShowCompProps_E4A55EBE07844718B3CE909CD373E344) 19 0 R (ShowCompProps_7D43F1EE13A3486293740CC4EACC83A7) 20 0 R (ShowCompProps_D56D88B10A794172A85C09050DA4B8D2) 21 0 R]
+>>
+endobj
+8 0 obj
+<<
+/A 22 0 R
+/Count -1
+/First 23 0 R
+/Last 23 0 R
+/Parent 5 0 R
+/Title <FEFF0053006300680061006C00740070006C0061006E002800220041006C006C00200044006F00630075006D0065006E007400730022002C0050006800790073006900630061006C0029>
+>>
+endobj
+9 0 obj
+<<
+/Annots [24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R]
+/Contents 34 0 R
+/Group <<
+/CS /DeviceRGB
+/S /Transparency
+>>
+/MediaBox [0 0 1605 1131]
+/Parent 6 0 R
+/Resources <<
+/ExtGState <<
+/GS0 35 0 R
+>>
+/Font <<
+/F0 36 0 R
+/F1 37 0 R
+>>
+/XObject <<
+/IF0 38 0 R
+>>
+>>
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/JS (function _FindWord\(pageIndex, wordToFind\){this.selectPageNthWord\(pageIndex, 0, bScroll=false\);\r\nvar numWords = this.getPageNumWords\(pageIndex\);\r\nfor \(var nWord = 0; nWord < numWords; nWord++\)\r\n{\r\n    var matchWord = this.getPageNthWord\(pageIndex, nWord, true\);\r\n    if \( matchWord == wordToFind\)\r\n    {\r\n        this.selectPageNthWord\(pageIndex, nWord, bScroll=false\);\r\n        break;\r\n    }\r\n}})
+/S /JavaScript
+>>
+endobj
+11 0 obj
+<<
+/JS (function _HighlightRect\(pageIndex, left, top, right, bottom\){this.selectPageNthWord\(pageIndex, 0, bScroll=false\);                                                 \r\nvar lastDist = -1.0;                                                                                 \r\nvar lastIndex = -1;                                                                                  \r\nvar matInv = \(new Matrix2D\).fromRotated\(this, pageIndex\).invert\(\);                                   \r\nfor \(var i = 0; i < this.getPageNumWords\(pageIndex\); i++\) {                                          \r\n    var quads = matInv.transform\(this.getPageNthWordQuads\(pageIndex, i\)\).toString\(\).split\(","\);      \r\n    var qLeft = Math.min\(Math.min\(quads[0], quads[2]\), Math.min\(quads[4], quads[6]\)\);                \r\n    var qRight = Math.max\(Math.max\(quads[0], quads[2]\), Math.max\(quads[4], quads[6]\)\);               \r\n    var qTop = Math.min\(Math.min\(quads[1], quads[3]\), Math.min\(quads[5], quads[7]\)\);                 \r\n    var qBottom = Math.max\(Math.max\(quads[1], quads[3]\), Math.max\(quads[5], quads[7]\)\);              \r\n    if \(\(left >= qRight\) || \(right <= qLeft\) || \(top >= qBottom\) || \(bottom <= qTop\)\) continue;      \r\n    var dist =   Math.abs\(left - qLeft\) + Math.abs\(right - qRight\)                                   \r\n               + Math.abs\(top - qTop\) + Math.abs\(bottom - qBottom\);                                  \r\n    if \(\(lastDist >= 0\) && \(lastDist <= dist\)\) continue;                                             \r\n    lastDist = dist;                                                                                 \r\n    lastIndex = i;                                                                                   \r\n}                                                                                                    \r\nif \(lastIndex >= 0\) this.selectPageNthWord\(pageIndex, lastIndex, bScroll=false\);                     })
+/S /JavaScript
+>>
+endobj
+12 0 obj
+<<
+/JS (function ShowCompProps_7065B067DA2B46C7A3B2AAD63B2009A2\(\){var sChoice = app.popUpMenu\("Comment: IRLML0030TRPBF","Component Kind: Standard","Description: MOSFET-N Kanal Anreicherungstyp","Footprint: SOT23R","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MOSFET-N-Enh","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+13 0 obj
+<<
+/JS (function ShowCompProps_1DBCCEDE305444C68417BF7D2A2F3A11\(\){var sChoice = app.popUpMenu\("Comment: LED+","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+14 0 obj
+<<
+/JS (function ShowCompProps_9B840CD2A01B443F9F86528E66ABD250\(\){var sChoice = app.popUpMenu\("Comment: 5V","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+15 0 obj
+<<
+/JS (function ShowCompProps_B90CAC9D268643669EA9E15037A6B13E\(\){var sChoice = app.popUpMenu\("Comment: LED-","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+16 0 obj
+<<
+/JS (function ShowCompProps_CDFA46D6F289433B8CB7969AE2A9868C\(\){var sChoice = app.popUpMenu\("Comment: LED+","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+17 0 obj
+<<
+/JS (function ShowCompProps_1664BDF2E81B4D95B359D4C6DCD7752F\(\){var sChoice = app.popUpMenu\("Comment: LED-","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+18 0 obj
+<<
+/JS (function ShowCompProps_C65501EFF1D94228BFB04E290E961F69\(\){var sChoice = app.popUpMenu\("Comment: In","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+19 0 obj
+<<
+/JS (function ShowCompProps_E4A55EBE07844718B3CE909CD373E344\(\){var sChoice = app.popUpMenu\("Comment: LED+","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+20 0 obj
+<<
+/JS (function ShowCompProps_7D43F1EE13A3486293740CC4EACC83A7\(\){var sChoice = app.popUpMenu\("Comment: GND","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+21 0 obj
+<<
+/JS (function ShowCompProps_D56D88B10A794172A85C09050DA4B8D2\(\){var sChoice = app.popUpMenu\("Comment: LED-","Component Kind: Standard","Description: MP","Footprint: PAD1","Ibis Model: ","Library Name: Altium20.SchLib","Library Reference: MP","PCB3D: ","Pin Info: ","Signal Integrity: ","Simulation: "\); if \(sChoice\) {var nUrlPos = sChoice.search\(/:\\s\(\(http|https|ftp\):\\/\\/\).+/\); if \(nUrlPos !== -1\) {app.launchURL\(sChoice.substr\(nUrlPos+2\), true\);} else {var nPathPos = sChoice.search\(/:\\s\(\(\\/\)|\(\\\\\\\\\)\).+/\); if \(nPathPos !== -1\) app.openDoc\(sChoice.substr\(nPathPos+2\)\);};};})
+/S /JavaScript
+>>
+endobj
+22 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 0]
+/S /GoTo
+>>
+endobj
+23 0 obj
+<<
+/A 39 0 R
+/Count -1
+/First 40 0 R
+/Last 40 0 R
+/Parent 8 0 R
+/Title <FEFF0063006800610069006D006200650072005F006C00650064005F006400720069007600650072005F0062006F006100720064002E0053006300680044006F006300280063006800610069006D006200650072005F006C00650064005F006400720069007600650072005F0062006F0061007200640029>
+>>
+endobj
+24 0 obj
+<<
+/A 41 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [951 464 976 489]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A 42 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 520 829 527]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A 43 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 628 829 635]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A 44 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 574 829 581]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A 45 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 592 829 599]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A 46 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 502 829 509]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A 47 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 646 829 653]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A 48 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 556 829 563]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A 49 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 610 829 617]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A 50 0 R
+/Border []
+/C [1 1 0]
+/F 0
+/Rect [813 538 829 545]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Filter /FlateDecode
+/Length 590
+>>
+stream
+xÚ•–Ûn1†ï÷)|™ªÂÌÉ‡¹„@"$ÚÒtÕHÕH•ÒªéE¥>}gÙBè®­e… 1ûÿşlÏØÃÏf¹»·ùÑ|l–÷ŸÀ=ırèÀ^èÔ#„ˆÙ¡€WÑèŸİºmà¨xy²ö±ûøíÀƒ¤äÚ?]àei£FOÌèÚ¯Y€Dqí—æfã6oÚoÍ¶mN(p”ÉS$gÄ¥ãÖİV!-k·Xì)¢fÂ)ëÊ­Öœ=D ÌÉ!ƒ'D©èÅ“l_˜ˆCrDH>D.si´Æ¹&BÈ:MãÙ4.ĞH²LÓd6MÊk£iV˜Í
+.WòFWä-ÎæÅòN¦pEŞÒlZ*Ğì`§˜§iÃ}Y„@–VP'”¼’pÀV€^¯†Ëaîß<ª·	D»1˜<G‘‹Ûå8Òh”öxº,=fÇØîaÿnÀĞ>ÖwÃÙb"%2`s9ô~»YŒ66¡­ ùz‹½&UÔšçmÙ“„fr2 ğµœ v‡EÊFé×e·ûdŞÂç1™ƒ× ±|”*XÙú‚#«W ‚\4Œ‹ÉŞı¶çëVÅ^Zñ–'«oŒeTˆóLúÄlwß‡³MVîÙ¶ÜæÍ^ Nf}ØÌIÅAÈİê•­’òkÁú8tœÜÎh×»Ñy°\t ãwÿÛzk÷ÏÍÍawXmÀàö'Àõ'ú¶ıáôà¿ğYO5=•õ\ÓsY/5½”õ¡¦e}¬écYŸjúTÖçš>—õZÓë@ß"à8DãÆk{Û¶mş9šX
+endstream
+endobj
+35 0 obj
+<<
+/ca 1
+/CA 1
+/Type /ExtGState
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Bahnschrift
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/FontDescriptor 51 0 R
+/LastChar 121
+/Subtype /TrueType
+/Type /Font
+/Widths [269 0 0 0 0 0 0 0 0 0 0 528 0 479 0 0
+552 333 517 529 569 544 513 503 563 0 0 0 0 0 0 0
+0 647 646 619 656 598 559 646 0 275 0 0 573 779 700 0
+623 0 652 0 481 0 587 0 0 0 0 0 0 0 0 436
+0 532 544 0 539 536 0 0 0 251 0 0 290 0 559 545
+544 0 427 519 0 0 500 0 0 483]
+>>
+endobj
+37 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/BBox [0 2.45235 1275.047974 901]
+/Filter /FlateDecode
+/Length 2010
+/Matrix [1.2573 0 0 1.2567 0 -1.2567]
+/Resources <<
+/ExtGState <<
+/GS0 52 0 R
+>>
+/Font <<
+/F0 53 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+xÚíZÁ$5½÷WÔ8„$UI%W$@âHÏ”Ä"Ô»8ğû8ÛyI…é$N­‘vÛ¯mÇyqœ”«¿ıñn—O,îüûııóÓÍ.ÙºåóboÂòXœß~,ß>Ëÿÿºüò™”¿Ÿ\ŒÍaùS]€>xÇ¿.÷›Ûë’ÒjÒzšTÀec>íÂnÒ–&ˆ=–ÁËãvFuõ=±¼º8£Ù¬?¹aIUî·ïŞ˜ƒß?}ûƒ%ß~Y6“CÎ'Êwr¢Íq!‘<¼}¾}å¾~ûíöı›ÁÌ±Ô"½ßV—ŒÁÄÀHµgÍ·=š.Û‹ªDBqİ8¨ŸÁ¼Õ¸~FÓ=G“4z‘À\ ê@$t‘C4?à€‘jÏš;ç‚‰ê@Ep¡/‚ˆßÁ÷SĞtç¯ĞŒ’Şï'¡šã4¯MCÒu(‚+«ªXVí{±»Ä=I¥ö¨Ğ¨£ûºš×=Ì›Íô;³»RÒ)ùóBëš}ê4+2Û‹bÔmÆËÒFi­PG÷›	»‡A}"…T(ª¢³RÂ­	t@-˜Í{Ğa uÂf¬ Ã êDÊŸì@‡a»3î\ÑeàTè˜J!:Ì“«±à,i­ÎÃúZLë5èÂ<†pAi2=S–æN©"¨”’Y·•AÚœ÷Ùø’
+\§!ßèÊ+1°ôÎÅÕ9¤ìüDĞº¹6Y°>Ñ‚ú-À‚2€:Şšà€4P'e*	±­” ˜DÖ“oÜm€ÎNƒ¤è–5Yã]™Ù¾o†˜àT"FB$FR0y-|6„N˜œz-r°eT¢1¢Ï\<ìyÉ¸í´z–¦°ÜVBq4
+i+@‡Ğ–#Ş3Ü3ş¥'Í€fjsTûJ«‰ÛZi76¹^‹Êå:W%Ä•D§ñ*›3Î/Z•ß>ª@w‰­sU‘ªE	MÛH"-a1Ò…%Z-úÜègŒ}XæWI¡º­ç;c³ -»ÕåaÙyëİ6%Ú»i”zÃ¿ÓbWÑRíæZrÔ}¹Éåøi¿ÚŠ¾]³çH‘ÍÄv×¶Ó¤é\¶4ÕH;rK4å òqA·h‡Ó%AmÊ‰MA¨O•ë¨Çy&·y€£µØ—-8-r‹³ÊÌM4dîìa`ç(—ğ	g_t¿ıÇ„ŞõQë‘WÒØ9ê>å_1ª&qóH;/ïbX‚][ğ,h‰O|ª\G=.È3hgh§rf‰…+e¸…yŠ@º|/góš!‰•°Y¿Øü›³nÌIkD÷)ùŠQ	_×9t’ÛÔ"£{˜ËP8X>.p.6ŸøT¹z\g2pÎpè>µBá .ˆÈ'ËÀºjğÜÅÃÀÎÄÊÙ,‰_„~ĞY7ò$5¨û”ÅÊÿ~GÚ)¤H‚N	¶ ËÇÚÅFâŸ*×QòLÚÚ7º¡•'‚n–vÕ¹³‡!•³Y¿ı ¡³<näIkP÷)ÿŠ­®<@ëëJOk‹lİLH®ÅÎòqA€u±‘ğÄ§Êç Ç¼/ã ÂWz0ğ¾Nş)@ª°„«†L›=ô¼	,dÍò÷Eä3"g‰«¬IŞJD÷ë
+Q;ssÛÔ=Ï	nnÔ…ñ;\âY>.°-6œøT¹z\g20ÎPNëäB£ÜÑšÈ–rÕ¹³‡!y•³Yö¾ı ¡³$näIkP}ã$–gß+ÈB‘ó>~æ}éäØ€—lU‚K¶`|ÂŸ%¯v@¨‚ñz3ÓùjÓU­6İYº	FS>ÛÂ-Ë=á§V#ƒ¥†•kåFäã‚´$S^q©bó¸ Ïä–c‚<@‡º¤¡ğ:kf•˜šhÈÌÙÃÀM¿ic“Mû¢óctN¶,PÇ[¶uŸ²¯yMMô|vÌÉöÜZM2í(7U<F Ê$H9"óˆÇy&C•dª$õ—×Ró$ˆD³ÁÛ5ËP%UC˜`3Ã±£|Í™ svä4âäÈÑ îSî5§]éœc¿ Ğ›*·¶~A S`ó°ùX>.T±‘ı%>U®£ä™eƒ(NúÅV»õ-N–¡l¨†Ì]ºÔ=;CVÎfUøEè	ÕáFÔaªªŸ×'|çÄï'á¿:3h¨7­Y‹}\×s¬òº“~Š²ù­óÒ–¥È¹üXƒNÇS”ANñ¹¤—Ñg`l@}*säú†cDÉÇmD ãéœ[ZÔÍ;e‰²ÊÌK4dŞâ¡g¦î“+__nò¾÷Eå? R_sOîÚ“G‹á¡’½=EÏÖF±f'€§WÌ-tSÜÀm•«¢6L˜¸‘;ğ¾+"3C ìå6>•®òˆeXÕh,T+Cj·&Ä˜Ù/ß'ñšÔïw+‡N<dµöæ/y~­òó½\óµŠ¯­ğn…÷RğuDşëÛÆ‹ÃÿvÍxÿ}şp5'rééÕ… —uAÚÏÏ&?MœµB¥ßÔº‰ÒÚÁ#ôkTú5Ò‡lOÅ4¸Íş|üñ©=|ûUúª½åßi1q_í9Ÿ_ÆçôbÑûè¨†ùö­¿ şPÛ¨
+endstream
+endobj
+39 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 0]
+/S /GoTo
+>>
+endobj
+40 0 obj
+<<
+/A 54 0 R
+/Count -10
+/First 55 0 R
+/Last 56 0 R
+/Parent 23 0 R
+/Title <FEFF0043006F006D0070006F006E0065006E00740073>
+>>
+endobj
+41 0 obj
+<<
+/JS (ShowCompProps_7065B067DA2B46C7A3B2AAD63B2009A2\(\);)
+/S /JavaScript
+>>
+endobj
+42 0 obj
+<<
+/JS (ShowCompProps_1DBCCEDE305444C68417BF7D2A2F3A11\(\);)
+/S /JavaScript
+>>
+endobj
+43 0 obj
+<<
+/JS (ShowCompProps_9B840CD2A01B443F9F86528E66ABD250\(\);)
+/S /JavaScript
+>>
+endobj
+44 0 obj
+<<
+/JS (ShowCompProps_B90CAC9D268643669EA9E15037A6B13E\(\);)
+/S /JavaScript
+>>
+endobj
+45 0 obj
+<<
+/JS (ShowCompProps_CDFA46D6F289433B8CB7969AE2A9868C\(\);)
+/S /JavaScript
+>>
+endobj
+46 0 obj
+<<
+/JS (ShowCompProps_1664BDF2E81B4D95B359D4C6DCD7752F\(\);)
+/S /JavaScript
+>>
+endobj
+47 0 obj
+<<
+/JS (ShowCompProps_C65501EFF1D94228BFB04E290E961F69\(\);)
+/S /JavaScript
+>>
+endobj
+48 0 obj
+<<
+/JS (ShowCompProps_E4A55EBE07844718B3CE909CD373E344\(\);)
+/S /JavaScript
+>>
+endobj
+49 0 obj
+<<
+/JS (ShowCompProps_7D43F1EE13A3486293740CC4EACC83A7\(\);)
+/S /JavaScript
+>>
+endobj
+50 0 obj
+<<
+/JS (ShowCompProps_D56D88B10A794172A85C09050DA4B8D2\(\);)
+/S /JavaScript
+>>
+endobj
+51 0 obj
+<<
+/Ascent 794
+/CapHeight 710
+/Descent -206
+/Flags 32
+/FontBBox [-1057 -271 1107 1111]
+/FontFamily (Bahnschrift)
+/FontName /Bahnschrift
+/FontWeight 400
+/ItalicAngle 0
+/StemV 0
+/Type /FontDescriptor
+>>
+endobj
+52 0 obj
+<<
+/BM /Normal
+/Type /ExtGState
+>>
+endobj
+53 0 obj
+<<
+/BaseFont /Cascadia#20Mono
+/Encoding /WinAnsiEncoding
+/FirstChar 43
+/FontDescriptor 57 0 R
+/LastChar 121
+/Subtype /TrueType
+/Type /Font
+/Widths [586 0 586 0 0 586 586 586 586 586 586 586 586 586 0 0
+0 0 0 0 0 0 586 586 586 586 586 586 586 0 586 0
+0 586 586 586 0 586 0 586 0 586 0 586 0 0 0 0
+0 0 0 0 586 0 586 586 0 586 586 0 0 0 586 0
+0 586 0 586 586 586 0 586 586 0 0 586 0 0 586]
+>>
+endobj
+54 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 0]
+/S /GoTo
+>>
+endobj
+55 0 obj
+<<
+/A 58 0 R
+/Count -1
+/First 59 0 R
+/Last 59 0 R
+/Next 60 0 R
+/Parent 40 0 R
+/Title <FEFF005000410044005F004C004500440031>
+>>
+endobj
+56 0 obj
+<<
+/A 61 0 R
+/Count -3
+/First 62 0 R
+/Last 63 0 R
+/Parent 40 0 R
+/Prev 64 0 R
+/Title <FEFF00540031>
+>>
+endobj
+57 0 obj
+<<
+/Ascent 928
+/CapHeight 666
+/Descent -234
+/Flags 32
+/FontBBox [-479 -483 2207 1125]
+/FontFile2 65 0 R
+/FontName /Cascadia#20Mono
+/ItalicAngle 0
+/StemV 87
+/Type /FontDescriptor
+>>
+endobj
+58 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 66 0 R
+/S /GoTo
+>>
+endobj
+59 0 obj
+<<
+/A 67 0 R
+/Parent 55 0 R
+/Title <FEFF005000410044005F004C004500440031002D0030>
+>>
+endobj
+60 0 obj
+<<
+/A 68 0 R
+/Count -1
+/First 69 0 R
+/Last 69 0 R
+/Next 70 0 R
+/Parent 40 0 R
+/Prev 55 0 R
+/Title <FEFF005000410044005F004C004500440032>
+>>
+endobj
+61 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 71 0 R
+/S /GoTo
+>>
+endobj
+62 0 obj
+<<
+/A 72 0 R
+/Next 73 0 R
+/Parent 56 0 R
+/Title <FEFF00540031002D0031>
+>>
+endobj
+63 0 obj
+<<
+/A 74 0 R
+/Parent 56 0 R
+/Prev 73 0 R
+/Title <FEFF00540031002D0033>
+>>
+endobj
+64 0 obj
+<<
+/A 75 0 R
+/Count -1
+/First 76 0 R
+/Last 76 0 R
+/Next 56 0 R
+/Parent 40 0 R
+/Prev 77 0 R
+/Title <FEFF005000410044005F004C004500440039>
+>>
+endobj
+65 0 obj
+<<
+/Filter /FlateDecode
+/Length 7115
+/Length1 11132
+>>
+stream
+xœ½:	tÇ•¿zz®™ÑhtŒP÷¨5#`$!t ’9]€À tÀŒ¸ft špÈ2—1Ø2ƒÇ
+!Æ8˜ø 1q´€“&Œ±Œq²ëµ±W!{±×q`—uÇÉzAÓ½¿º{„`½Ç{ûŞNwuWıªúÿ×¿ê×¼ 	Ğ:°´­uqÏ__Œs Ì¶¶Mø¶su/ èfÊ•]«Ö^I{¶€ $?±jÍ}+7>¾ó» öl ë‹«;Bí‡Î}ı} ÷;ˆcÒj¤V™gx(•ÜÕk7lY|¦û:¶İØ×¬oùmK÷cû}l·¬mé²¿iù@ŞlóëBk;>øø·`{Òg»Öß»áIóÑ c±¿´«»£kÎ²Îa{7òû„1@)!C¸¬‘L,øÌ­ªX ½ÁhŠ3Ç'$Æ IÉ«-Å© ´tÈ€LpBV¬wdsÀ»°– @®ÛycÆŒÿŸiÿ¿üXÄ§/¾yğBL™PÕPµ0æÀ<˜õĞ M°V@Z¡: ÖÀ:X]Ğ÷Â&¸O–G0!†ÊÛ0Üı¿Ã Šå¦üùì¨ëùu¼å×äÓò«òÛr?^"^/ÊÇä£Êõ7xıXş‘¦ãÿËQô¬Áq`†xô‚DH‚d°€lTÛHƒ[êF=*\¨gT3¸cQÑãõ—Á®ïU›‹sA¾+R©ü…«m8ÿ ƒx]€Óx%Â¯ğ¹B&MĞg±ş&ÁEäæˆ(ÍS°ÇŠğ>¶Ÿ#õÈÙ ÂÖ\Áûğ38µWày²á?Æú;ğ;œ›§`Y?‡AÄ¼q?‹X^…_ ü8Œ­3ğb½ŒT~ Gá$Ò>Ÿ"½cĞ8_GçpôûAŠ}ğkø†5rñëpìÏàxWñx^Áò
+öş=òóòóSx{Ï!O ãu]›e8ËÔ7ÔZM¦Æ5/_g^bE_İS¿÷äîGví|xÇC=>°}Ûı[ïÛ²yÓÆ÷vßÓµ~İÚ5ß
+w®^µ²£½­5\±|ÙÒ%-ÿâEÍMëÌ¿{ŞÜº9³gÕå,æ¸|Òo®ª:ÌùĞoÇj|A>U¢QŠ¼¼è[èwÍmğ×T;]®€Sp‰>‘u×Ğj´Å:ˆgá\D1·Q˜»°ÅÏ×D‚J'Bšnk©ıSFú´šÈT5ùÅZ/¶Fµg)í‘æì;ºçÄº-!iïá>g?Q*úªÇ¸’€ ¶z—àïÀ±ı&Hp5«°–«~bä,ĞŠ¥m±0@´Z‹_äƒ+³q40nQ¹ LØ¢Öƒ"ßÆó¢Á-´Öû#.‘§Önğ£ÄHÈq	.>ßÈ¢£âb ²_ {öûÈÆ?’ù=Mşaª‚•ş\ìóğ ú(C¡H<mÀ\‚š9Á˜”ñÎˆ=J/« ”v®B©ƒ^ña\h`T˜E%ä¡„°‡ÁVíñÅF³3©°uôXm´	{,´ç`ˆJ§úC)¡f|f½Ïä‹ó%0‰ê‚‚N äÆ¥8/%DâìGœ
+x€ôôÇùœ
+¦md¤°rN‡B„ôÔ…7ßZAs‹ÿ%TÄ©<qD%ıä×ô3ó½Â-³^èGíÕô“ùŞ š6mêÜ5<šµèkôÓ±A'Ú<ZwuA>µ.Ş/t8…@¿İéªé·XªæFªĞÑÖë<AoD59jh‚¥ÍTçÓ&Ôqˆ€nƒ÷µ-âƒbkĞ‹UŞR©¥V¢£ÁÑÏèÜı„u“é0åfHÍBG¥/TôÌ€jö…J‘8T©×5|zg¤MhEôÕûW9WBˆ[ô	!‘*ı,T¢¿¤\RM?Ì÷âÚæ¢.ğÖ/A'¥Âà#‘j¾ßÇzBm!Ú®v¡ßG´.¡º:0jF}¡¶ ¨	(ƒÑX#„øv”2.%×(`µ¥…ÎijñGÚ…v%ìóEB¸l'ßpFmŠÄq>²ùú[ÑINõywÛJ| [´…V@½óNØª;+qÔh˜PGÉ)o¢¼#uBM; %Ô.êĞâ\|{@5¨WâÆ9ˆŒÄ£NäË]±ÑZØÀ;"®º½¹z¤YKK¥V¨ÚŠÈz¨åù]bØ)®	xG†„ÄV>Â[„
+>”É³h	Šz¬ô´…hp2PÛC@x+Ú2"¬Fb‡ÓXÏ%q÷6”RI’fÜt9bO=ğÁ BÑ{\N^Ôã›_¢ÆEÃn½ºzŒıø
+Eq.PrŠFÜV†:Fk‘:­*}Ê#‹ÜA£_g$"DD‚,ºkq0¢÷ˆÏúÂ»Ë+„:P‰”êPæÖ"»Št(6gà
+àÆ­È‡Ñ¢•>Ú"hâ2ô6½Û±EøòF­epYOÛ¢ n¼…¯åU‡Ğ’©æĞV ©ãÜt ÎWn¸ÖÛ¿Ìè¾Qîõ^u°IÁŠœ5øÅúØ£rcå¯È¤MÁNºxÒ€ñƒUE…§wÏAñúĞªœt6/2M~M=Êü9tª3¦0uB”°K·EWŒßx•_•¨A¹”;Î-šÜ¨h‘EÔn#]Î-#À:2­ÎÑ)ìªÀ:’âµe!A­Áº;”5©Û!OÃ'&
+!ç€|¦cdP % äM
+!:CAQSqhç7‰B£¤Şñô£,a4Ø¬ÜF…gÚ§.I»à5é!Wšä\ÚÚ]ånÍ+5¿ëpŠ«Şvu–A‹à<FTŒÜm•lc	zƒà2bÃå£Wñb£7em»U©Ö©ÑZ%© mH«`ú,‚0›Ğ k	³E›#5á×LÂúŠ¦ô3ÄˆÑ#KbúH[°]İ¨QÊ0Å9•¦FEÑqŠn7ÑĞÔä×;Ù€b2q³W³bõ¹É;Ò¿™ú¤1&Ií‹Œtêt›UÛğhÏM^Ó7ÎŠ˜şwÄLš6Å8¥F#é¿'¥ST§ª«Q1×©q¢út$BC[ÿ²$ê¡	+ÂmÈZ92Y®q‰²Ù†¬ÔSÒ&¢4ÑİŒ”Umîxì°àØ7TÓÇNró†S…÷€,+|«£U! ßf·jçZ·6[µÎÍŞ Öji	âZZ4OŠ×¼4á¨¯¡Wuw{§0‚ŒnôÂFÚê'	˜³N=RôğW…"O²ŠíHE?1z´z:€qWD"ñ±øOÃÿ+ôH¬$—ˆÜ	·£>P×‰ßÜcºš¨€5-'¼)Pss•_Eóº7ÅQ(Dınÿ¥s”tb”`uÅÑĞt*{c,$¬÷ÆæÆä¶RqimîĞ&ÿv„RIı’î$"Á·Şã¢ÅIE§P£6¾Ş«%ºÛ©vw(èvxy¾ó¬*‚Ùn”t«âéh“G	rLx:C!%)Ç˜tÌ¥hvŒ' ÁÂ“©0U=	Ú9÷ ÖíŸê,à¹b@¾–PCƒ›<–¦Ï[¬ØámxĞw)âÕú†»¸Á£¢+Ø…Î©£Ü'0‘¹(z"3Oqšé)/vÀ:èıïºy:£Ô ¬¶¸¨,`¹p¦U‚ÈóK1(âV? wg"ÜR#=M-ò«OÚI (‹æ4—?&Ïj£	YÔğBò±,zpºE÷¡º›‘.­Eb„`Õ7’¥&G–¨†‡·²–ÀİXPa=íÈÒH±3›’×ø¡í¤¬€‚ÚOÂSG û°¾Œc|É¦¸°Éz–0İ,˜ºÁ[ìµ•ÛÊ'x‹&ŞK\DÀKWæJ- ‡H9t^m’hg†ô½76°Wnò¤epãùaDº‘Z!2è_I¾Ì\!œ›’ivèâœiqq¶¦Hl*¯µ|B¹7­ÜZ‚„Be®âIe¥Á•ç*v¤Ú‚ËZb¥dİe%jW¢öV’»óñƒ½Òédéo®_y/ze¨”_½gûÃ÷]LÿšÂï[Ûuÿ’SGO£|2§Z[§,éX¾´uğÕ÷?‡§ÊEòuö^ıadÖI% ú„°^×Ö0Ä!wø³•—M¬á­@†ÒŒÃX-®âÉiæz4Læ“¢ı?QğØÂ7®‘O¿ûíÂŸØ™Ëd	Ù¾lÑşê:éŸeˆŸ*V£¸{5É$C
+%FE`1Ç…ÍV¦ÛBE²Ğd@WjaèJ‘®‹J€ÌòÃ>úğñô£L$ºIê¼qƒ$“ÄÁ¨':Ÿ®L“ü<Ä¯Sšy>«£*½’Ä„p"ªb¤¨fz÷"~%L´rxhHw|¸‰ù:jÒ§¸™ÕXV¢~up©G¨p>+¥Áâ&o
+Çİ‰^Å­Óğº…“ÉGŒ?T0V¢
+‚¨‚.Êµ3››ÙÙ`Htİ™¢i£œªc‚­Ü[LU·é$ÕbC±¡V“©¼3(•Î’:2şÀ•²…Õ¿}åÊÇ+¾[8ü¯'ÿ­Ä“ìd^TUÍO ª®ÉÒ5éš;ñ'‰¦2ÏF[É…½>\°idÁc|`I.š.=Å¤š	Ò,AÕáËå†¢×tÁáÃº *Dö=ÄÇÜ¦¦T_¼¢¢Áİ¦Eê\ToÎ+Ò¼5Ò`œÏ¡K
+[Ğì©É:dÇnRª¸¸İª„ÖŠ&Îœ\’R’*èâMÑ	eØJKÁ:3);áĞŞŠCÑso<T±÷É>üSı9Ó:==­h©š™7}ösµ…,?LdiL$£'2zS"‹„Œ*eJZq™¬%ÅaU‹Î"­^º“,"W‡Ø)¤éæ[’²<·*˜ 9Ğ®¨€-…zÛív5s$”•ğlª\tqÄÿÏGúú|ş9‰')Ò¿J‘–‘ÁçŸ‰ìüâêM)*ÍÖÖA}qÓH”|*™4&ÓíĞ‚
+Ñ«F¦™ÿ)2QŠ.RB0x6ïÚµYú8T|ô§?}$¥1ã¥³—I“5ø@÷öİƒWŞ»x=ú™"Ñ§£í¸ÖúQ^”â33z6¬Ù€W3$Åˆş8İÇZ”KÍ‡Œ
+Ú)¾8nùœM‘z‰r‘×¤®‹dÌ»(ué{of³Ÿ*2¢¯=Â¢î
+`¼Ïé7ä9ô&KNØßœN6›Œa“‘bœAÃ_Z9.¾F—g-õäåMNc©Ö´T}§¬tR‰æ||ªİê˜TV–"L¶ºâ¤¬û%ûEb”OF'½ğòÍß­8P‘_ÕS%]_±¸mWåô¦œæCfRá'¶pk<­c?</Õ:Ú?Şw2-m_²¾¯v^uxÊéüÒû§!ßÏ#ßsõ—!²ÀísdB·Ãhb8ÅØ¥Ë@)†!²œ¦„…åOŞd‡C3Şª+¡ü¦ZÀMEûúìŞÙe=3^ÿÕƒ¥/§7$ÿåÂUéXôÅöø¸³qŸŸß÷´4D,n|.ıVzÕ®¿|c’&=ráãToîÎ†îŒ1iñqz0$…(5»Æˆ*9…Ü.lTT%:d$Ç 
+E…‘*z¡qèÒ¥¡Í¦?´½gçÎíÍ^j>ğ÷vb#fb'Y]íÒù#GÏœ>ñòÑ#Òùö.óŞq#ád(›B§/…øD0X)NHÓ)Qb¦W˜Èˆ-ÕnÄ5Š4™“ÒŸ¤ßŞøìÒ¿¢éLá-»¼ûZeOeæò§ídúKxiøë93~ø§úÎ$'²™A¯8í|ıW#›“ªÇâ'Z:•ÇĞMc¥	X³”(~+R–hÑR³(ô,¦ôBô é;NZ†÷2ù÷L[¼xÚôE‹tW‡ÓOáO>uŠ´* éÓ£VZQÅ¨º¯fø’ôV0‡­–°ºcª ¡í¡iÚ©IĞ+;Ä_\à—-i|(}á¨ƒÔÙßºÌÎ»9Ø.öœrØõ“NBüÊ€BN;ÿFƒÅjèN¶˜»ãÙp¼â(J¦D½ÏJ¥JMMY	{iV]i{Ëéq‘]}Ã‡ÏØ™ÁÕÒÄò­Îs§¢óÙÜ+Ã§‘È\ÄX$‘=Õ— 	aƒM1(m	·Éfµ0yªU+
+dü—¿úêòGşóG|p#;á‰	'}"ı»tCº2xúø‹¯¾úâqJ§O*eë‘«š°	³²t½Ş™v»õ‰a}|7›ÔM*QÅˆ‹&6Òeô'!Ås($­.“²ÓwÆN
+¶0/=bÁIOmûÕÅ‹R©şWnü‘tµ“Â#G_>qúÌÑ#¤°½KúLº.ıUú¡±°YJÄhì€Lš1IJO§¤ºM&Ö–”N2w³ñaV•¶·„Z´&ó™ºÈ‚ÂÕ*J=…Ï4Æ2½ÁFlG8_s÷î]’ù…4öøXi5iµ“·È<’{úü†•¿¶:ÅæJCÑjYèTO£*ìÈOäøfwbRËšm»3lGúÆÑ~G˜ÉËó ç$%T=iiÅ¦[ÍJïüÁì|·¤ì«gö£G»{W­cá¶»N®¬şÅ¿Ãd9c±Ì¨)š8}ì¦-?y:.~Àd˜VS8ÎZ4ö‘cßGŞ”}ƒÍUwÕ“.fÕGEÿw¤]Ÿ’162æSi›;¼O×uó2*²Ä³Kpv¢’ZLÉ†î$+•-İ÷’5#Æ¼ÉÓ™Éˆ(‰1¦PŒ©sÍ/t%¦ËÒ{S¼³÷c©å2iá%~Ğè±W÷ÄpÅàÕr©m;ŒÑ`
+q*&uFJ
+İÆjJ¢Q =Ìê• ™Ë®½jvíÂBFÅ cüRùŒ|&eU56VU74T“$éKéK<x0ŸE³¢EL…
+®j”`Ò™üè…èU4ª£Z¢‹Kn_*G,ÚIbcA)!”ŠUNnJîT&i(zlé#Ã?$õj*†‰\İÛ[ŞCqb®À–*gšBØãÍd'é»ia‡Š4AÙ—Kb§ˆ{ËrAõc!ì O¥™ŞA2‡ÔlÙºPœ©‘ûä¥?H×†uÁÏ^&şjëÖåómÛòş¥KÒÆ—/+)ävj¡HØ»x/Ãšo)HïLr<àáÂ½b¦#"ÆŒ¹SÁò;Í•¥ôÔ:Y’7¹ƒ3ƒ1•aÖı|VÆ´§6>}¼íôn>½ ı‹´=ıÙ_.»§sŞ±y‘¥_8{áÈN{¦ãu«g[W}WÅôÄ7ûÏ3ÏîHmØ8{qhŞ¼GW¯øÑS=¯	[P+u·’1Í³èñxbÔ™LIÉ	İT3ê±sBI‰bˆ)%:a2ÕGI*M·êŞúÍÛ{™Ù}‡¤£CdºNfè– ÕÒº(˜ZÄŸÙƒrº%9%³“æ	,¸rÂN;J2J Á—*–²’[±Í89&AŒ)y¸W¬ü|øbïŞƒ½½[m^ğŞ§÷\Œ~h¿h_ÉÚÑşáß­¿ÿPï£ß«<ZÀ}uåàÅ.æ4èÁmÌx*:èQ8{]/ƒ~aàs˜ìa›£ËÔv²QcI·4–¦%0ÖÉÚNbgGG|R†YLkMe‚ÿví…ºì—:õ¶$üàŞ‡·>öä>éy†üØ}ÄşWÂ¾¼ş¾ÏÏ*<óØı»öíÜñ8©ô“ï‘¾ÔAgôŒĞ…
+Ù1¢'îqlO6xÂéÖÌ×›ù^,³$êiÎH~F®şNJ^¼x‘µí¥²×"¤|RŠæ©ñ}º—91Œ–€×—™é´eí´euÚ6(Ì	âšF‚ØY{T½jzŒİN1øş–‡¿ó‡±d~_×Ö­]´üúÚµ__¸zÕ~éÍ—ŞÄûÒÀ¶®-<²¥k“½reïª%«»ºV/YÕşÓç½öÚ±ç~*ËĞÎ¬fçérğ`Ôm—kÙy@? Jø0Qòí¢‰‹‘£vİÕSJ–Ğƒì<öœ"I;ë “æô¤S¿f(ûwG,¥ÿâBô‡º«ƒlÒÍ/É1eÇÑèáÜø“?‚Æ¯¢gV+c n•Á½º²’Y‘<õ/oR¾uùÍ?|ÒAßÿÚù§áüaÁÚG›í«'œE?Â@‹Ãù6YûLw~,“«°"hå0–EXzµúI,•Xú´v–'´:S¯Íby^{? õ·jóöho:öií=Ë,G±„±lÇR‡e§F£Këo]F8;àçğ{’IªÈ~ò*¹Äd0³˜íÌkÌÌ¿ëšuuŸ°9l»Ÿı[ö†¾Jÿ˜ş·ú¯…†u†Ã†ËÆrc§ñe1å›zMO˜^0ıÂtQùô(Aƒİ‡¡‰L€CTéÉ«ŸĞ>P"hæ ÕÔ¸^«Ó´:ı ÉªÕuÀáÙE„Cˆ&ku’`¦Vg¾@«Ğê:f«fvw†Ö4t¬Ú¸&Ô­Ô•ÇİMkÖÔW×®él­àÀúj&fÁ‚5Ğ °
+6b-„°[ğ[µ»¡	Ÿk0É¨†Z|wB+T`xkDìk:9üÆ¯XE8TÇ…VvvN,*šTæ“Ÿ-}¼ù;52··Zæ¾]%s½3eî±™û¹H¥Ì=ZÙÃíñÉÜîé>î‘éïr»¦ËÜN|?<c?·c†Ì=T!s=ïrV,à˜&sÛï’¹mSeîşr™Û:Yæî›"s[&ÉÜæ²cÜ¦2™ÛX*sJdîŞ‰™\÷ÄåÜ=e®«¸‡[_|Œ[W<‘[[$skŠŞå¾UÔÍ…{¸ÎB™[]xŒ[5AæVNx—ë(¹öüL®-ÿ]®5_æBù=\0¿œ[‘?–[î•¹eãz¸¥ãdnÉ¸E\Ë¸R.0^æüã}Üâ±2·(Oæš=2×ä–¹Æ\™kÈ]Ä-Ì)ÇÕÕçÈÜ‚œrn¾KæîÎ–¹y¼ÌÍåd®nÌ»Üœ127{Ì*nVÖ4®6Kæª«–sU3{¸Ê™>nÆô	Ü´Š	ÜÔ»º¹»*xnÊä‰\ñD;WTXÀM(¬ã
+õÎŒ¥Îd.?Sæ¼™fnü¸1Ü¸™›aàò<Ç8PÇ¹s{¸\á'$§;–æ¤§r®4#ÇËnæ²¸ì4™ã¹,‡sNÉÈ_’^áğ-É¤µ4ZKÍ¨t¼Ó’Rjk¶–ZšmK ±4¡Y_Ê6'Ø@ryRs|©¹ÙXjh&¥Ğœ0Ä•ššu¥L³)À,pRçóéÉ Ù'6yçå†¹¢©~‰HöˆîFúô-l{DhnYâï'do`×·¿c*çŠûı't€Õ@?ÃT-ô÷³º½JÊPA»¼Z=ö$£.­›Œ<A{¬ÅÚZ·vàñšqğ:ş«qéÿ„"‚M
+endstream
+endobj
+66 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED1"\);)
+/S /JavaScript
+>>
+endobj
+67 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 78 0 R
+/S /GoTo
+>>
+endobj
+68 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 79 0 R
+/S /GoTo
+>>
+endobj
+69 0 obj
+<<
+/A 80 0 R
+/Parent 60 0 R
+/Title <FEFF005000410044005F004C004500440032002D0030>
+>>
+endobj
+70 0 obj
+<<
+/A 81 0 R
+/Count -1
+/First 82 0 R
+/Last 82 0 R
+/Next 83 0 R
+/Parent 40 0 R
+/Prev 60 0 R
+/Title <FEFF005000410044005F004C004500440033>
+>>
+endobj
+71 0 obj
+<<
+/JS (_FindWord\(0, "COT1"\);)
+/S /JavaScript
+>>
+endobj
+72 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 84 0 R
+/S /GoTo
+>>
+endobj
+73 0 obj
+<<
+/A 85 0 R
+/Next 63 0 R
+/Parent 56 0 R
+/Prev 62 0 R
+/Title <FEFF00540031002D0032>
+>>
+endobj
+74 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 86 0 R
+/S /GoTo
+>>
+endobj
+75 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 87 0 R
+/S /GoTo
+>>
+endobj
+76 0 obj
+<<
+/A 88 0 R
+/Parent 64 0 R
+/Title <FEFF005000410044005F004C004500440039002D0030>
+>>
+endobj
+77 0 obj
+<<
+/A 89 0 R
+/Count -1
+/First 90 0 R
+/Last 90 0 R
+/Next 64 0 R
+/Parent 40 0 R
+/Prev 91 0 R
+/Title <FEFF005000410044005F004C004500440038>
+>>
+endobj
+78 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED100"\);)
+/S /JavaScript
+>>
+endobj
+79 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED2"\);)
+/S /JavaScript
+>>
+endobj
+80 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 92 0 R
+/S /GoTo
+>>
+endobj
+81 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 93 0 R
+/S /GoTo
+>>
+endobj
+82 0 obj
+<<
+/A 94 0 R
+/Parent 70 0 R
+/Title <FEFF005000410044005F004C004500440033002D0030>
+>>
+endobj
+83 0 obj
+<<
+/A 95 0 R
+/Count -1
+/First 96 0 R
+/Last 96 0 R
+/Next 97 0 R
+/Parent 40 0 R
+/Prev 70 0 R
+/Title <FEFF005000410044005F004C004500440034>
+>>
+endobj
+84 0 obj
+<<
+/JS (_FindWord\(0, "PIT101"\);)
+/S /JavaScript
+>>
+endobj
+85 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 98 0 R
+/S /GoTo
+>>
+endobj
+86 0 obj
+<<
+/JS (_FindWord\(0, "PIT103"\);)
+/S /JavaScript
+>>
+endobj
+87 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED9"\);)
+/S /JavaScript
+>>
+endobj
+88 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 99 0 R
+/S /GoTo
+>>
+endobj
+89 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 100 0 R
+/S /GoTo
+>>
+endobj
+90 0 obj
+<<
+/A 101 0 R
+/Parent 77 0 R
+/Title <FEFF005000410044005F004C004500440038002D0030>
+>>
+endobj
+91 0 obj
+<<
+/A 102 0 R
+/Count -1
+/First 103 0 R
+/Last 103 0 R
+/Next 77 0 R
+/Parent 40 0 R
+/Prev 104 0 R
+/Title <FEFF005000410044005F004C004500440037>
+>>
+endobj
+92 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED200"\);)
+/S /JavaScript
+>>
+endobj
+93 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED3"\);)
+/S /JavaScript
+>>
+endobj
+94 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 105 0 R
+/S /GoTo
+>>
+endobj
+95 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 106 0 R
+/S /GoTo
+>>
+endobj
+96 0 obj
+<<
+/A 107 0 R
+/Parent 83 0 R
+/Title <FEFF005000410044005F004C004500440034002D0030>
+>>
+endobj
+97 0 obj
+<<
+/A 108 0 R
+/Count -1
+/First 109 0 R
+/Last 109 0 R
+/Next 104 0 R
+/Parent 40 0 R
+/Prev 83 0 R
+/Title <FEFF005000410044005F004C004500440035>
+>>
+endobj
+98 0 obj
+<<
+/JS (_FindWord\(0, "PIT102"\);)
+/S /JavaScript
+>>
+endobj
+99 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED900"\);)
+/S /JavaScript
+>>
+endobj
+100 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED8"\);)
+/S /JavaScript
+>>
+endobj
+101 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 110 0 R
+/S /GoTo
+>>
+endobj
+102 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 111 0 R
+/S /GoTo
+>>
+endobj
+103 0 obj
+<<
+/A 112 0 R
+/Parent 91 0 R
+/Title <FEFF005000410044005F004C004500440037002D0030>
+>>
+endobj
+104 0 obj
+<<
+/A 113 0 R
+/Count -1
+/First 114 0 R
+/Last 114 0 R
+/Next 91 0 R
+/Parent 40 0 R
+/Prev 97 0 R
+/Title <FEFF005000410044005F004C004500440036>
+>>
+endobj
+105 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED300"\);)
+/S /JavaScript
+>>
+endobj
+106 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED4"\);)
+/S /JavaScript
+>>
+endobj
+107 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 115 0 R
+/S /GoTo
+>>
+endobj
+108 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 116 0 R
+/S /GoTo
+>>
+endobj
+109 0 obj
+<<
+/A 117 0 R
+/Parent 97 0 R
+/Title <FEFF005000410044005F004C004500440035002D0030>
+>>
+endobj
+110 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED800"\);)
+/S /JavaScript
+>>
+endobj
+111 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED7"\);)
+/S /JavaScript
+>>
+endobj
+112 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 118 0 R
+/S /GoTo
+>>
+endobj
+113 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 119 0 R
+/S /GoTo
+>>
+endobj
+114 0 obj
+<<
+/A 120 0 R
+/Parent 104 0 R
+/Title <FEFF005000410044005F004C004500440036002D0030>
+>>
+endobj
+115 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED400"\);)
+/S /JavaScript
+>>
+endobj
+116 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED5"\);)
+/S /JavaScript
+>>
+endobj
+117 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 121 0 R
+/S /GoTo
+>>
+endobj
+118 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED700"\);)
+/S /JavaScript
+>>
+endobj
+119 0 obj
+<<
+/JS (_FindWord\(0, "COPAD0LED6"\);)
+/S /JavaScript
+>>
+endobj
+120 0 obj
+<<
+/D [9 0 R /FitR 0 1131 1605 2]
+/Next 122 0 R
+/S /GoTo
+>>
+endobj
+121 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED500"\);)
+/S /JavaScript
+>>
+endobj
+122 0 obj
+<<
+/JS (_FindWord\(0, "PIPAD0LED600"\);)
+/S /JavaScript
+>>
+endobj
+xref
+0 123
+0000000000 65535 f
+0000000015 00000 n
+0000000228 00000 n
+0000000369 00000 n
+0000003705 00000 n
+0000003744 00000 n
+0000003816 00000 n
+0000003873 00000 n
+0000004506 00000 n
+0000004746 00000 n
+0000005068 00000 n
+0000005541 00000 n
+0000007607 00000 n
+0000008311 00000 n
+0000008964 00000 n
+0000009615 00000 n
+0000010268 00000 n
+0000010921 00000 n
+0000011574 00000 n
+0000012225 00000 n
+0000012878 00000 n
+0000013530 00000 n
+0000014183 00000 n
+0000014245 00000 n
+0000014578 00000 n
+0000014689 00000 n
+0000014800 00000 n
+0000014911 00000 n
+0000015022 00000 n
+0000015133 00000 n
+0000015244 00000 n
+0000015355 00000 n
+0000015466 00000 n
+0000015577 00000 n
+0000015688 00000 n
+0000016351 00000 n
+0000016402 00000 n
+0000016828 00000 n
+0000016952 00000 n
+0000019207 00000 n
+0000019269 00000 n
+0000019408 00000 n
+0000019503 00000 n
+0000019598 00000 n
+0000019693 00000 n
+0000019788 00000 n
+0000019883 00000 n
+0000019978 00000 n
+0000020073 00000 n
+0000020168 00000 n
+0000020263 00000 n
+0000020358 00000 n
+0000020575 00000 n
+0000020626 00000 n
+0000021032 00000 n
+0000021094 00000 n
+0000021237 00000 n
+0000021356 00000 n
+0000021553 00000 n
+0000021628 00000 n
+0000021729 00000 n
+0000021885 00000 n
+0000021960 00000 n
+0000022050 00000 n
+0000022140 00000 n
+0000022296 00000 n
+0000029500 00000 n
+0000029573 00000 n
+0000029648 00000 n
+0000029723 00000 n
+0000029824 00000 n
+0000029980 00000 n
+0000030047 00000 n
+0000030122 00000 n
+0000030225 00000 n
+0000030300 00000 n
+0000030375 00000 n
+0000030476 00000 n
+0000030632 00000 n
+0000030707 00000 n
+0000030780 00000 n
+0000030855 00000 n
+0000030930 00000 n
+0000031031 00000 n
+0000031187 00000 n
+0000031256 00000 n
+0000031331 00000 n
+0000031400 00000 n
+0000031473 00000 n
+0000031548 00000 n
+0000031624 00000 n
+0000031726 00000 n
+0000031886 00000 n
+0000031961 00000 n
+0000032034 00000 n
+0000032110 00000 n
+0000032186 00000 n
+0000032288 00000 n
+0000032448 00000 n
+0000032517 00000 n
+0000032592 00000 n
+0000032666 00000 n
+0000032743 00000 n
+0000032820 00000 n
+0000032923 00000 n
+0000033083 00000 n
+0000033159 00000 n
+0000033233 00000 n
+0000033310 00000 n
+0000033387 00000 n
+0000033490 00000 n
+0000033566 00000 n
+0000033640 00000 n
+0000033717 00000 n
+0000033794 00000 n
+0000033898 00000 n
+0000033974 00000 n
+0000034048 00000 n
+0000034125 00000 n
+0000034201 00000 n
+0000034275 00000 n
+0000034352 00000 n
+0000034428 00000 n
+trailer
+<<
+/ID [<0E1006A55B6475862A6F1B7095F377AA> <0E1006A55B6475862A6F1B7095F377AA>]
+/Info 1 0 R
+/Root 2 0 R
+/Size 123
+>>
+%PXC-Ver:10.5.2.395-Date:20250331065741-SHA:00009177:3FB8BA7C82DE4308DB600CAD3B073D3501A37B5C70BB271545C2D9738D77F56E
+startxref
+34504
+%%EOF
